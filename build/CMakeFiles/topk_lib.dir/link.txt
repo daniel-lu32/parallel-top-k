@@ -1,2 +1,0 @@
-/usr/bin/ar qc libtopk_lib.a CMakeFiles/topk_lib.dir/src/benchmark.cpp.o CMakeFiles/topk_lib.dir/src/generators.cpp.o CMakeFiles/topk_lib.dir/src/topk_heap.cpp.o CMakeFiles/topk_lib.dir/src/topk_parallel_heapmerge.cpp.o CMakeFiles/topk_lib.dir/src/topk_quickselect.cpp.o CMakeFiles/topk_lib.dir/src/topk_sort.cpp.o CMakeFiles/topk_lib.dir/src/verifier.cpp.o
-/usr/bin/ranlib libtopk_lib.a
