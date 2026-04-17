@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_correctness.dir/tests/test_correctness.cpp.o -o test_correctness  libtopk_lib.a
